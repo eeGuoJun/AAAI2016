@@ -35,7 +35,7 @@ function [Omega] = DADL(Y,W,H,lamda1,lamda2,lamda3,sigma,T)
 %   year = {2016}
 % }
 % If you have problems, please contact us at 
-% guojun@mail.dlut.edu.cn  or  guoyq@dlut.edu.cn
+% eeguojun@outlook.com  or  guoyq@dlut.edu.cn
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
