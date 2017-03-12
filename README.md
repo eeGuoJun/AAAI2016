@@ -5,6 +5,7 @@ Discriminative Analysis Dictionary Learning
 When running the source code, we recomend to pre-process data via 'normcols.m'.
 
 Please cite our work if you find these resources helpful.
+
     @inproceedings{JunGuo_AAAI_2016,
         author = {J. Guo and Y. Guo and X. Kong and M. Zhang and R. He},  
         title = {Discriminative Analysis Dictionary Learning},
@@ -14,4 +15,5 @@ Please cite our work if you find these resources helpful.
         month = {Feb.},
         year = {2016}
     }
+
 If you have problems, please contact us at eeguojun@outlook.com
