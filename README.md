@@ -1,7 +1,7 @@
 # AAAI2016
 Discriminative Analysis Dictionary Learning
 
-When running the source code, we recomend to pre-process data via 'normcols.m'.
+When running the source code, we recomend to pre-process data via 'normcols.m'.^M
 
 
 Please cite our work if you find these resources helpful.
