@@ -2,8 +2,6 @@
 Discriminative Analysis Dictionary Learning
 
 
-When running the source code, we recomend to pre-process data via 'normcols.m'.
-
 Please cite our work if you find these resources helpful.
 
     @inproceedings{JunGuo_AAAI_2016,
