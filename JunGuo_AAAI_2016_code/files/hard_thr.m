@@ -4,9 +4,9 @@ function X = hard_thr(Y,T)
 %    s.t.  ||x_i||_0 <= T for all i (all columns of X)
 % Input:
 %   Y   -a matrix
-%   T	-sparsity level
+%   T   -sparsity level
 % Output:
-%	X   -a matrix, where each column has only T non-zero positions
+%   X   -a matrix, where each column has only T non-zero positions
 
 X = Y;
 Yabs = abs(Y);
