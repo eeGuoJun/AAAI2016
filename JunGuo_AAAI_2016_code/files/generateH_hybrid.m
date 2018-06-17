@@ -2,11 +2,11 @@ function [H,T] = generateH_hybrid(Hinit, nFea)
 % concatenating the Kron-form spectral codes
 % to the sequency Walsh-ordered Hadamard codes
 % Input:
-%   Hinit -spectral matrix, each column has only one non-zero position
-%	nFea  -feature dimension of original data Y
+%    Hinit -spectral matrix, each column has only one non-zero position
+%    nFea  -feature dimension of original data Y
 % Output:
-%	H     -Kron-form spectral codes + sequency Walsh-ordered Hadamard codes
-%   T     -sparsity level
+%    H     -Kron-form spectral codes + sequency Walsh-ordered Hadamard codes
+%    T     -sparsity level
 %%%%%%%%% Notice: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % in Analysis Dicitonary Learning (ADL) models:
 % the length of sparse codes should be larger than 'nFea', 
